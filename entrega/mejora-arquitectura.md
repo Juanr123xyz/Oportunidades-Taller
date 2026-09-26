@@ -96,4 +96,3 @@ En la arquitectura TO-BE, el proceso se transforma de la siguiente manera:
 
 ---
 
-_Este documento hace parte de la entrega del Taller 7 (Opportunities & Solutions) del curso AREM - Universidad de La Sabana._
