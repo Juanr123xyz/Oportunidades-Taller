@@ -111,3 +111,5 @@ Pesos y criterios oficiales de la actividad de mejora de arquitectura del curso:
 ## Licencia
 
 Este taller hace parte del curso de Arquitectura Empresarial - Universidad de La Sabana. Uso académico bajo licencia MIT.
+#   O p o r t u n i d a d e s _ T a l l e r  
+ 
